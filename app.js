@@ -59,7 +59,7 @@ const addContent = async () => {
               </div>
               <div>
               <button><a href="${
-                "https://t.me/proxy?server=" +
+                "tg://proxy?server=" +
                 element.host +
                 "&port=" +
                 element.port +
