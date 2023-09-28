@@ -37,6 +37,8 @@ a:hover {
   width: 90%;
   height: 90%;
   max-height: 90%;
+  background: #040D12;
+  color: #f4f4f4;
   display: grid;
   grid-template-columns: repeat(3, 33%);
   grid-template-rows: 300px;
@@ -56,8 +58,8 @@ a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #f4f4f4;
-  border: 0.5px solid gray;
+  background: #183D3D;
+  border: 0.5px solid #5C8374;
   border-radius: 15px;
 }
 
