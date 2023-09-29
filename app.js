@@ -51,7 +51,7 @@ const addContent = async () => {
               </div>
               <div class="detail">
               <p class="title">host:</p>
-              <p class="text">${element.host}</p>
+              <p class="text">${element.host.slice(0,20)}...</p>
               </div>
               <div class="detail">
               <p class="title">port:</p>
