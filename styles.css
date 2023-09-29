@@ -20,6 +20,7 @@ button {
   margin: 10px 0;
   padding: 5px 10px;
   background-color: transparent;
+  color: #77ABB7;
   border: 1px solid #77ABB7;
   cursor: pointer;
   text-transform: uppercase;
@@ -67,7 +68,7 @@ a:hover {
 .title {
   font-size: 13px;
   font-weight: bold;
-  color: blue;
+  color: #77ABB7;
   text-transform: uppercase;
 }
 
