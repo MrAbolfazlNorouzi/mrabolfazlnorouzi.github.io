@@ -29,7 +29,12 @@ button {
 button:hover {
   background: #77ABB7;
   color: #254B62;
-}
+} 
+
+button > a {
+  text-decoration: none;
+  color: #77ABB7;
+} 
 
 a:hover {
   color: white;
